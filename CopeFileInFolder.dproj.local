@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.bdsproj,C:\Users\Student\Documents\Borland Studio Projects\Project2.bdsproj=E:\Прога с папками\CopeFileInFolder.bdsproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,C:\Users\Student\Documents\Borland Studio Projects\Unit1.dfm=E:\Прога с папками\UMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\Users\Student\Documents\Borland Studio Projects\Unit1.pas=E:\Прога с папками\UMain.pas</Transaction>
+  </Transactions>
+</BorlandProject>
